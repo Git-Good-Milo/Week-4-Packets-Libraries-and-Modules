@@ -21,7 +21,7 @@ sleep(1)
 # They are very stable and considered vanilla python
 # Check the documentaion for more
 #  https://docs.python.org/3/library/
-("/////////MAths////////")
+print("/////////MAths////////")
 num = 24.64
 
 print(ceil(num))
